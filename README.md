@@ -1,9 +1,9 @@
 # CV-Ve-Sertifikalar
-Algoritma programlama ve veri yapıları (C#) => btkakademi
-C#(basic) => HackerRank
-İntroduction to cybersecurity => cisco
-HTML5 => btkakademi
-JAva ile programlamaya giriş => btkakademi
-Linux => ndg
-C programlama => soloLearn
+Algoritma programlama ve veri yapıları (C#) => btkakademi <br>
+C#(basic) => HackerRank <br>
+İntroduction to cybersecurity => cisco <br>
+HTML5 => btkakademi <br>
+JAva ile programlamaya giriş => btkakademi <br>
+Linux => ndg <br>
+C programlama => soloLearn <br>
 
