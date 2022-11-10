@@ -6,5 +6,6 @@ HTML5 => btkakademi <br>
 JAva ile programlamaya giriş => btkakademi <br>
 Linux => ndg <br>
 C programlama => soloLearn <br>
-Asp.Net Core MVC => türkcell geleceği yazanlar
 Tam donanımlı web geliştiricisi => boğaz içi web ve çoklu ortam geliştiricisi & metal sanayicileri sendikası
+
+Asp.Net Core MVC => türkcell geleceği yazanlar
