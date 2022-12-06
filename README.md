@@ -1,4 +1,4 @@
-# CV-Ve-Sertifikalar
+# Sertifikalar
 Algoritma programlama ve veri yapıları (C#) => btkakademi <br>
 C#(basic) => HackerRank <br>
 İntroduction to cybersecurity => cisco <br>
